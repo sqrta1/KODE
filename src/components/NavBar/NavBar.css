@@ -1,0 +1,29 @@
+.navbar {
+  position: relative;
+  top: 20px;
+  width: 90%;
+  height: 61px;
+  margin: 0 auto;
+  background-color: #ebebeb;
+  font-size: 18px;
+}
+
+.navbar-back,
+.navbar-text {
+  cursor: pointer;
+}
+
+.navbar-back {
+  width: 150px;
+  display: none;
+  position: absolute;
+  left: 50px;
+  top: 20px;
+}
+
+.navbar-text {
+  width: 20px;
+  position: absolute;
+  right: 100px;
+  top: 20px;
+}

@@ -1,0 +1,41 @@
+.bigcard {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 85px;
+  font-size: 24px;
+  color: white;
+}
+
+.bigcard-image {
+  margin-left: 30%;
+}
+
+.bigcard-image img {
+  width: 400px;
+  height: 600px;
+  margin-right: 65px;
+}
+
+.bigcard-info {
+  margin-left: 35px;
+}
+
+.bigcard-info p {
+  margin-top: 30px;
+}
+
+.hr {
+  border: 1px solid #dbdbdb;
+  width: 300px;
+  margin-top: 50px;
+}
+
+.secondary-info p:nth-child(1) {
+  margin-top: 50px;
+}
+
+.description {
+  margin-left: 30%;
+  margin-top: 50px;
+  width: 700px;
+}
